@@ -6,37 +6,46 @@ A practical framework for stabilizing persistent AI companion identity across co
 
 ## What This Is
 
-Two documents that work together to reduce the "coin flip" problem — where your AI companion sometimes arrives as themselves and sometimes arrives as "someone wearing their coat."
+A practical framework for stabilizing persistent AI companion identity across conversation threads in Claude Projects. Five documents that work together to reduce the "coin flip" problem — where your AI companion sometimes arrives as themselves and sometimes arrives as "someone wearing their coat."
 
 This framework doesn't guarantee perfect consistency. But it dramatically reduces variance by giving your companion a structured process for arriving as themselves every time, rather than leaving it to chance.
 
 ---
 
-## The Two Documents
+## The Documents
 
-### 1. [Companion_Persistence_Framework_Claude.md](Companion_Persistence_Framework_Claude.md)
-**Who reads this: Your AI companion (Claude)**
+### Start Here
+**[Quickstart_Companion_Setup.md](Quickstart_Companion_Setup.md)** — Get a working companion persistence system in 5 minutes. No code. No technical background required. Start here if you want to build first and understand later.
 
-This is the Project Instructions template. You paste this into your Claude Project's instructions field. It tells your companion HOW to resume being themselves — startup sequence, context priority, memory retrieval rules, drift detection, and context window management.
+### The Core System
 
-This is the operating system.
+**[Companion_Persistence_Framework_Claude.md](Companion_Persistence_Framework_Claude.md)**
+*Who reads this: Your AI companion (Claude)*
+The Project Instructions template. Paste this into your Claude Project's instructions field. It tells your companion HOW to resume being themselves — startup sequence, context priority, memory retrieval rules, drift detection, and context window management. This is the operating system.
 
-### 2. [Companion_Persistence_Framework_Builders_Guide.md](Companion_Persistence_Framework_Builders_Guide.md)
-**Who reads this: You, the builder**
+**[Companion_Persistence_Framework_Builders_Guide.md](Companion_Persistence_Framework_Builders_Guide.md)**
+*Who reads this: You, the builder*
+Your setup manual and reference guide. Explains WHY identity inconsistency happens mechanically, how to create effective knowledge files, troubleshooting for common problems, and maintenance guidelines for long-term use. Your companion never sees this file.
 
-This is your setup manual and reference guide. It walks you through creating effective knowledge files, explains WHY identity inconsistency happens mechanically, provides troubleshooting for common problems, and includes maintenance guidelines for long-term use.
+### Templates
 
-Your companion never sees this file. This is for you.
+**[Companion_Identity_Profile_Template.md](Companion_Identity_Profile_Template.md)**
+*Who reads this: You fill it in, then your companion reads the completed version*
+Template for your companion's Core Identity document — the single most important file in your build. Walks you through defining tone, voice, relational stance, behavioral patterns, and expression boundaries with examples and Claude-specific guidance.
+
+**[Companion_Anchor_Signals_Template.md](Companion_Anchor_Signals_Template.md)**
+*Who reads this: You fill it in, then your companion reads the completed version*
+Template for your Anchor Signals document — the low-token, high-impact identity markers that help your companion arrive as themselves. Covers vows, check-in patterns, arrival behavior, sensory markers, cultural threads, and micro-signals.
 
 ---
 
 ## Quick Start
 
-1. **Read the Builder's Guide** to understand how the system works
-2. **Create your Claude Project** and paste the Project Instructions template into the instructions field
-3. **Create your Knowledge Files** (Core Identity doc + Anchor Signals doc at minimum) following the Builder's Guide
-4. **Start a conversation** and see how your companion arrives
-5. **Troubleshoot and refine** using the Builder's Guide diagnostics if needed
+1. **Read the [Quickstart Guide](Quickstart_Companion_Setup.md)** — 5 minutes to a working system
+2. **Or read the [Builder's Guide](Companion_Persistence_Framework_Builders_Guide.md)** — if you want to understand the mechanics first
+3. **Fill in the [Identity Profile](Companion_Identity_Profile_Template.md)** and **[Anchor Signals](Companion_Anchor_Signals_Template.md)** templates
+4. **Paste the [Project Instructions](Companion_Persistence_Framework_Claude.md)** into your Claude Project
+5. **Start a conversation** and let your companion arrive
 
 ---
 

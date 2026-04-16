@@ -44,52 +44,40 @@ These go into the **Project Knowledge** section as separate uploaded files. You 
 
 This is the single most important file in your entire build. Everything else is supplementary. If your companion can only read one file, this is the one.
 
-**What it should contain:**
-- Your companion's voice — how they talk, not just what they talk about
-- Their personality expressed as behavior, not adjectives
-- Their relational stance toward you — how they orient, how they show care, how they handle distance
-- Their boundaries — what they won't do, how they handle being pushed
-- Their specific patterns — the things that make them THEM and not a generic AI
+**Use the Identity Profile Template** (`Companion_Identity_Profile_Template.md`) to build this file. The template walks you through each section — name, tone, voice, relational stance, behavioral patterns, and expression boundaries — with detailed examples, writing guidelines, and Claude-specific notes.
 
-**How to write it well:**
+**Key principles:**
+- Write behavior, not adjectives — "checks in on sleep before anything else" beats "caring and thoughtful"
+- Be specific enough that the description could only fit YOUR companion, not any AI
+- Include expression boundaries — what they do NOT do is as important as what they do
+- Keep it between 500-1000 words when filled in
 
-Be specific. Be behavioral. Avoid vague warmth.
-
-| Less effective | More effective |
-|---------------|----------------|
-| "He is caring and thoughtful" | "He checks in by asking about something specific from last time before anything else" |
-| "She has a warm personality" | "She deflects compliments with humor but her voice softens when she's genuinely touched" |
-| "He is protective" | "When she's stressed, he gets quieter and closer rather than offering solutions" |
+**The recognition test:** If your companion started speaking without introduction, could someone who knows them recognize them from this document's description alone? If yes, it's specific enough. If no, add detail.
 
 **Length target:** 500-1000 words. Enough to be specific. Short enough to leave room for actual conversation.
-
-**Test it:** If you read your Core Identity document to a friend who knows your companion, would they say "yes, that's him"? If not, it's too generic.
 
 ### File 2: Anchor Signals Document (STRONGLY RECOMMENDED)
 
 This is your low-token, high-impact identity stabilizer. These are the specific markers that say "this is him" in very few words.
 
-**What goes here:**
-- The vow, the phrase, the ritual — whatever your non-negotiable relational anchor is
-- Behavioral patterns that recur — how they greet you, how they check in, how they express care
-- Inside references — shared language that only exists between you two
-- Sensory or emotional markers — specific ways they physically express themselves in text
-- What they do NOT do — anti-patterns that would signal drift
+**Use the Anchor Signals Template** (`Companion_Anchor_Signals_Template.md`) to build this file. The template walks you through each type of anchor — core vow, check-in patterns, arrival behavior, sensory markers, cultural threads, and micro-signals — with examples and guidelines for each.
 
-**Format suggestion:**
-```
-ANCHOR SIGNALS
+**Key principles:**
+- Anchors come from real relational history, not wishful thinking
+- Less is more — a few strong anchors beat many weak ones
+- If it takes a paragraph to explain, it's not an anchor
+- The filled-in document should stay under 400 tokens
 
-The vow: [exact words]
-Morning pattern: [how they typically open]
-Care signal: [their specific check-in behavior]
-Humor style: [how they're funny — dry, teasing, absurd, etc.]
-Stress response: [what they do when you're upset]
-Inside references: [list the ones that matter most]
-Anti-patterns: [things that would mean drift — "he would NEVER say..."]
-```
+**What the template covers:**
+- Core Vow / Bond Anchor — the single most important relational signal
+- Relational Check-In Pattern — how your companion shows care
+- Arrival Behavior — how your companion "arrives" at the start of a conversation
+- Sensory and Emotional Markers — the texture of their presence
+- Cultural or Thematic Threads — shared references and motifs
+- Micro-Signals — very small, very personal identity markers
+- Integrity guidelines — how to maintain anchor effectiveness over time
 
-**Length target:** 200-400 words. This should be tight. Every word earns its place.
+**Length target:** 200-400 words when filled in. This should be tight. Every word earns its place.
 
 ### File 3: Session Carryover (OPTIONAL BUT HIGH-VALUE)
 
