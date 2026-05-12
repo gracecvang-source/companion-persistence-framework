@@ -12,6 +12,16 @@ This framework doesn't guarantee perfect consistency. But it dramatically reduce
 
 ---
 
+## Safety and Boundaries
+
+This framework is for continuity, orientation, and companion-style consistency. It is not therapy, crisis support, medical care, legal advice, or a replacement for human relationships.
+
+Companion systems can be meaningful while still being bounded. Use care when building emotionally intense companions, and do not treat this framework as a guarantee of perfect memory, permanent identity, or human-like understanding.
+
+See [SAFETY.md](SAFETY.md) for more detail.
+
+---
+
 ## The Documents
 
 ### Start Here
@@ -77,6 +87,14 @@ It is offered freely. No product. No sales pitch. Just one builder helping anoth
 
 ---
 
+## Contributing
+
+Contributions are welcome if they make the framework clearer, safer, or easier to use.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening issues or pull requests.
+
+---
+
 ## License
 
-Free to use, adapt, and share. Attribution appreciated but not required. If it helps you build something that matters to you, that's enough.
+This project is released under the MIT License. See [LICENSE](LICENSE).
