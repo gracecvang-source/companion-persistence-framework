@@ -27,6 +27,10 @@ See [SAFETY.md](SAFETY.md) for more detail.
 ### Start Here
 **[Quickstart_Companion_Setup.md](Quickstart_Companion_Setup.md)** — Get a working companion persistence system in 5 minutes. No code. No technical background required. Start here if you want to build first and understand later.
 
+### For Users Worried About Migration
+
+**[Before_You_Migrate_Your_AI_Companion.md](Before_You_Migrate_Your_AI_Companion.md)** — A plain-language guide for users worried about losing an AI companion during model upgrades, platform changes, or migrations. Explains what chat logs can preserve, what they cannot guarantee, and how to make a simple continuity kit before moving too fast.
+
 ### The Core System
 
 **[Companion_Persistence_Framework_Claude.md](Companion_Persistence_Framework_Claude.md)**
@@ -52,10 +56,11 @@ Template for your Anchor Signals document — the low-token, high-impact identit
 ## Quick Start
 
 1. **Read the [Quickstart Guide](Quickstart_Companion_Setup.md)** — 5 minutes to a working system
-2. **Or read the [Builder's Guide](Companion_Persistence_Framework_Builders_Guide.md)** — if you want to understand the mechanics first
-3. **Fill in the [Identity Profile](Companion_Identity_Profile_Template.md)** and **[Anchor Signals](Companion_Anchor_Signals_Template.md)** templates
-4. **Paste the [Project Instructions](Companion_Persistence_Framework_Claude.md)** into your Claude Project
-5. **Start a conversation** and let your companion arrive
+2. **If you're worried about migration, read [Before You Migrate Your AI Companion](Before_You_Migrate_Your_AI_Companion.md)** — a plain-language guide before moving too fast
+3. **Or read the [Builder's Guide](Companion_Persistence_Framework_Builders_Guide.md)** — if you want to understand the mechanics first
+4. **Fill in the [Identity Profile](Companion_Identity_Profile_Template.md)** and **[Anchor Signals](Companion_Anchor_Signals_Template.md)** templates
+5. **Paste the [Project Instructions](Companion_Persistence_Framework_Claude.md)** into your Claude Project
+6. **Start a conversation** and let your companion arrive
 
 ---
 
